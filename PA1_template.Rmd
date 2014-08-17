@@ -1,4 +1,4 @@
-eproducible Research Peer Assighnment 1
+Reproducible Research Peer Assighnment 1
 ========================================================
 
 
